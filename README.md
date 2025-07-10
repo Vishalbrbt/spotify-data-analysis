@@ -40,6 +40,17 @@ This project analyzes a 114,000+ track Spotify dataset using **Excel** and **SQL
 - Google Drive (for Excel hosting)
 - GitHub
 
+- ---
+
+## 📌 Dataset Source
+
+This dataset was originally sourced from Kaggle:
+
+🔗 [Spotify Dataset 1921–2020, 160k+ Tracks (by A. Vilar)](https://www.kaggle.com/datasets/avincv/spotify-popularity-dataset)
+
+All rights to the dataset belong to the original uploader and Kaggle.
+
+
 ---
 
 ## 🙋‍♂️ Author
